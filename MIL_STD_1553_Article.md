@@ -1,3 +1,8 @@
+---
+title: MIL-STD-1553 Overview
+layout: default
+---
+
 # Understanding MIL-STD-1553: The Backbone of Military Data Bus Communication
 <p align="center">
   <img src="images/aircraft.png" alt="Military Aircraft" width="700"/>
