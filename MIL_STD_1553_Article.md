@@ -4,6 +4,11 @@
 
 In modern defense and aerospace systems, reliable, deterministic communication is critical. Whether controlling weapon systems, navigation avionics, or sensor fusion, military platforms demand fault-tolerant and time-predictable data exchange. MIL-STD-1553, a digital, command/response, time-multiplexed serial bus standard, fulfills this need and has remained a mainstay since its inception in the 1970s.
 
+
+<p align="center">
+  <img src="images/aircraft.png" alt="Military Aircraft" width="700"/>
+</p>
+
 ## What is MIL-STD-1553?
 
 MIL-STD-1553 (pronounced "mil standard fifteen fifty-three") is a military standard developed by the U.S. Department of Defense. It defines a method for reliable, high-integrity communication between avionics subsystems over a serial data bus. Initially intended for use in the F-16 fighter jet, its robust design has since led to its adoption in spacecraft, ships, ground vehicles, and commercial aviation.
