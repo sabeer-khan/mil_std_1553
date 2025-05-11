@@ -1,12 +1,7 @@
----
-title: MIL-STD-1553 Overview
-layout: default
----
+
 
 # Understanding MIL-STD-1553: The Backbone of Military Data Bus Communication
-<p align="center">
-  <img src="images/aircraft.png" alt="Military Aircraft" width="700"/>
-</p>
+
 ## Introduction
 
 In modern defense and aerospace systems, reliable, deterministic communication is critical. Whether controlling weapon systems, navigation avionics, or sensor fusion, military platforms demand fault-tolerant and time-predictable data exchange. MIL-STD-1553, a digital, command/response, time-multiplexed serial bus standard, fulfills this need and has remained a mainstay since its inception in the 1970s.
