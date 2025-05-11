@@ -21,7 +21,10 @@ MIL-STD-1553 (pronounced "mil standard fifteen fifty-three") is a military stand
 ## Bus Architecture
 
 A MIL-STD-1553 system consists of the following primary components:
-![MIL-STD-1553 Architecture](images/mil_std_1553.png)
+<p align="center">
+  <img src="images/mil_std_1553.png" alt="MIL-STD-1553 Architecture" width="500"/>
+</p>
+
 
 
 - Bus Controller (BC): The master node that initiates and controls all communications.
